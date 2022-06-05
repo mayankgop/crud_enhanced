@@ -1,0 +1,9 @@
+{
+    "database":{
+        "driver":"mysql",
+        "dsn": "admin:qwerty123@tcp(localhost:3306)/USER?charset=utf8"
+    },
+    "server":{
+        "port":8080
+    }
+}
